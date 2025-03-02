@@ -2,13 +2,13 @@
 - 👀 My university research focuses on Solid Mechanics, Vibrations, the Finite Element Method (FEM).
 - ⚡ Fun fact: I’m allergic to certain perfumes!
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
-[![Lattes](https://img.shields.io/badge/Lattes-lightgray?style=for-the-badge)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
+[![Lattes](https://img.shields.io/badge/Lattes-lightgray?style=flat-square)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thierrymiqueiasgmail.com)](mailto:thierrymiqueias@gmail.com)
 
-![LaTeX](https://img.shields.io/badge/MATLAB®-blue?style=for-the-badge&amp%logo=MATLAB)
-![Matlab](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/MATLAB®-blue?style=flat-square&amp%logo=MATLAB)
+![Matlab](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
 - [_MY SETUP_](https://github.com/user/repository/fork](https://www.youtube.com/shorts/E1gf_QgH1ng)):
 ```
