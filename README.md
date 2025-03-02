@@ -2,7 +2,7 @@
 - 👀 My university research focuses on Solid Mechanics, Vibrations, the Finite Element Method (FEM).
 - ⚡ Fun fact: I’m allergic to certain perfumes!
 
-[![Lattes](https://img.shields.io/badge/Lattes-lightgray?style=flat-square)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
+[![Lattes](https://img.shields.io/badge/Lattes_CV-lightgray?style=flat-square)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thierrymiqueiasgmail.com)](mailto:thierrymiqueias@gmail.com)
 
