@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thierrymiqueiasgmail.com)](mailto:thierrymiqueias@gmail.com)
 
 ![LaTeX](https://img.shields.io/badge/MATLAB®-blue?style=flat-square&amp%logo=MATLAB)
-![Matlab](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Matlab](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
 - [_MY SETUP_](https://github.com/user/repository/fork](https://www.youtube.com/shorts/E1gf_QgH1ng)):
 ```
