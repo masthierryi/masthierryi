@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masthierryi! 
+Hi, I’m @masthierryi! 
 
 [![Lattes](https://img.shields.io/badge/Lattes_CV-lightgray?style=flat-square)](http://lattes.cnpq.br/1813366880479323)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
