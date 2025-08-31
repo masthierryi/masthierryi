@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @masthierryi! I'm Brazilian, a Christian, and enthusiast of music, programming, and plants.
-- 👀 My university research focuses on Solid Mechanics, Vibrations, the Finite Element Method (FEM).
-- ⚡ Fun fact: I’m allergic to certain perfumes! 
+- 👋 Hi, I’m @masthierryi! 
 
 [![Lattes](https://img.shields.io/badge/Lattes_CV-lightgray?style=flat-square)](http://lattes.cnpq.br/1813366880479323)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
@@ -9,8 +7,9 @@
 ![LaTeX](https://img.shields.io/badge/MATLAB®-blue?style=flat-square&amp%logo=MATLAB)
 ![Matlab](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat-square&logo=css3&logoColor=white)
 
-- [_MY SETUP_](https://github.com/user/repository/fork](https://www.youtube.com/shorts/E1gf_QgH1ng)):
+- [_MY CHINA SETUP_](https://github.com/user/repository/fork](https://www.youtube.com/shorts/E1gf_QgH1ng)):
 ```
     - MoBo Zsus x99 p4 
     - CPU Xeon e5 2650 v4
@@ -28,7 +27,7 @@
 
 Some cool links:
 
-[![LAMEC](https://img.shields.io/badge/LAMEC-07697d?style=flat-square)](http://lamec-ufpi.com) [![simcompi](https://img.shields.io/badge/SIMCOMPI_2025-1c56ba?style=flat-square)](http://even3.com.br/simcompi) [![SIMCOMPI insta](https://img.shields.io/badge/SIMCOMPI-1c56ba?style=flat-square&logo=instagram)](http://instagram.com/simcompi)
+[![LAMEC](https://img.shields.io/badge/LAMEC-07697d?style=flat-square)](http://lamec-ufpi.com) 
 
 <!---
 masthierryi/masthierryi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
