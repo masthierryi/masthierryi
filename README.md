@@ -1,9 +1,5 @@
 Hi, I’m @masthierryi! 
 
-[![Lattes](https://img.shields.io/badge/Lattes_CV-lightgray?style=flat-square)](http://lattes.cnpq.br/1813366880479323)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Thierry-Melo-Madeira)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thierrymiqueiasgmail.com)](mailto:thierrymiqueias@gmail.com)
-
 ![LaTeX](https://img.shields.io/badge/MATLAB®-blue?style=flat-square&amp%logo=MATLAB)
 ![Matlab](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -24,10 +20,6 @@ Hi, I’m @masthierryi!
     - Monitor AOC 21.5" and Samsung syncmaster
     - Onistek Articulated monitor support
   ```
-
-Some cool links:
-
-[![LAMEC](https://img.shields.io/badge/LAMEC-07697d?style=flat-square)](http://lamec-ufpi.com) 
 
 <!---
 masthierryi/masthierryi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
