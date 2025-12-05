@@ -26,3 +26,4 @@ masthierryi/masthierryi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<img src="https://github-profile-trophy.vercel.app/?username=masthierryi&theme=juicyfresh&no-bg=true" />
